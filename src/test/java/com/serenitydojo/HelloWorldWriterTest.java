@@ -22,4 +22,5 @@ public class HelloWorldWriterTest {
         MatcherAssert.assertThat(targetYear, CoreMatchers.equalTo(2015));
     }
     
+    
 }
